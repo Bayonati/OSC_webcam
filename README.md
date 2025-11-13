@@ -1,3 +1,6 @@
+## Pure data addtion made by:
+David Bayona
+
 # Webcam OSC Grid Analyzer
 
 A Python application that captures webcam video, analyzes each region of the frame, and sends the data via OSC (Open Sound Control) for real-time audiovisual interaction.
